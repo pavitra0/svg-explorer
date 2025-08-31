@@ -19,7 +19,6 @@ A modern and intuitive web application to browse, search, and copy a vast collec
 
 - **Frontend**: [React](https://reactjs.org/) with [TypeScript](https://www.typescriptlang.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/) for a utility-first styling approach.
-- **API**: [svgl.app API](https://svgl.app/) for all icon and category data.
 - **Fonts**: [Inter](https://fonts.google.com/specimen/Inter) from Google Fonts.
 
 ## 🚀 Getting Started
