@@ -1,7 +1,7 @@
 
 # SVG Icon Explorer
 
-A modern and intuitive web application to browse, search, and copy a vast collection of SVG icons. This project is inspired by the clean interface of [Lucide Icons](https://lucide.dev/) and is powered by the public [svgl.app API](https://svgl.app/).
+A modern and intuitive web application to browse, search, and copy a vast collection of SVG icons.
 
 ![SVG Icon Explorer Screenshot](https://storage.googleapis.com/aistudio-ux-team-public/sdk_gallery_images/icon-explorer-screenshot.png)
 
