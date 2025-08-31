@@ -1,0 +1,5 @@
+{
+  "name": "SVG Icon Explorer",
+  "description": "A web application to browse, search, and copy a vast collection of SVG icons, inspired by the clean interface of Lucide Icons. Fetches data from the svgl.app API.",
+  "requestFramePermissions": []
+}
